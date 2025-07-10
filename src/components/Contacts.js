@@ -25,7 +25,7 @@ CustomHook(scrollTab, divs);
        </div>
        <div className="des" ref={(el) => el && divs.current.push(el)}>
         {/* 20 */}
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam perspiciatis quae veniam amet nesciunt voluptatibus quis consectetur consequatur quisquam harum.
+         I’m currently open to new opportunities and collaborations. Whether you have a project idea, a job role, or just want to connect professionally—feel free to reach out. Let’s build something impactful together.
        </div>
        <div className="list"  ref={(el) => el && divs.current.push(el)}>
         {
